@@ -1,0 +1,33 @@
+type: rich
+color: 15630911
+author:
+    name: La Baleine
+    url: https://www.labaleine.gg/
+    icon_url: https://cdn.discordapp.com/icons/291991078830342144/2033fdc4b1fbdb303676c470ba149ccd.png
+
+fields:
+    - name: "Déclarer ses bénéfices en France :"
+      value: |
+        [En France par BlockchainFrance](https://goo.gl/61sNfL) 
+        [En france par Ethereum France](https://goo.gl/BQsRnb)
+        [En france par CryptoFR](https://goo.gl/Wga3Ri) 
+        [En France par JVC](https://goo.gl/gohVkq) 
+  
+    - name: "Déclarer ses bénéfices en Belgique :"
+      value: |
+        [33% d'imposition](https://goo.gl/zmUhKa) 
+
+    - name: ": Déclarer ses bénéfices en Suisse :"
+      value: |
+        [Aucune imposition](https://goo.gl/QBkXNM) 
+
+    - name: "Déclarer ses bénéfices dans d'autres pays d'Europe :"
+      value: |
+        [En Irlande](https://goo.gl/kKQqSz) 
+
+    - name: "Divers :"
+      value: |
+        [Les pays avec 0% de taxe](https://goo.gl/jaVhHa) 
+        [Vidéo fiscalité par Bitcoin.fr](https://goo.gl/s2VCTQ)
+        [Avocat fiscaliste spéclialisé dans la crypto-monnaies](https://goo.gl/HdgBMN) 
+        [Bonus, vidéo super interressante](https://www.youtube.com/watch?v=DrcfslmaC3E) 
